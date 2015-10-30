@@ -1,0 +1,4 @@
+.vagrant/
+cookbooks/
+npm-debug.log
+tmp/
