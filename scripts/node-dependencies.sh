@@ -6,6 +6,6 @@ npm install -g bower
 npm install -g gulp
 npm install -g grunt-cli
 
-# cd /vagrant
-# npm install
-# bower install
+cd /vagrant
+npm install
+bower install

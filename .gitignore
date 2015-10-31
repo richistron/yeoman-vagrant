@@ -2,3 +2,6 @@
 cookbooks/
 npm-debug.log
 tmp/
+bower_components
+node_modules/
+.tmp/
